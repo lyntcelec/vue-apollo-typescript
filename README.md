@@ -29,4 +29,4 @@ yarn lint
 Before setup Vue project, you need to setup Hasura GraphQL server, like below infomations
 
 <img src="images/1.png" height="300em" />
-<img src="images/2.png" height="300em" />
+<img src="images/2.png" height="500em" />
