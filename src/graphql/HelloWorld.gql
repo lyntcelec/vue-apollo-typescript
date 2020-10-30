@@ -1,0 +1,6 @@
+query {
+  users(order_by: { id: asc }) {
+    id
+    username
+  }
+}
